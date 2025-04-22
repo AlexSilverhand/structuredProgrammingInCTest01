@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1677723428 source:d:\universidad\programas\examenp1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<windows.h>
+
+1677733316 source:c:\users\laptop\downloads\examenp1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<windows.h>
+
+1677739651 source:c:\users\laptop\downloads\examenp1 - copia\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<windows.h>
+
